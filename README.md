@@ -16,7 +16,8 @@
 
 ## Live Demo
 
-Experience the game firsthand: [Play Now](https://guess-my-number-eslam.netlify.app/)
+Experience the game firsthand: [![Netlify](https://img.shields.io/badge/Netlify-Deployed-blue?logo=netlify)](https://guess-my-number-eslam.netlify.app/)
+
 
 ## Getting Started
 
